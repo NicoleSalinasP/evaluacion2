@@ -1,0 +1,31 @@
+{
+  "annotations": {
+    "changelogDate": "20241214070730"
+  },
+  "dto": "no",
+  "fields": [
+    {
+      "fieldName": "nombreEmpleado",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "apellidoEmpleado",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "telefono",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "correo",
+      "fieldType": "String"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "name": "Empleado",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
